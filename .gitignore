@@ -1,0 +1,47 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*~
+
+# Fichiers sensibles
+*.key
+*.pem
+*.crt
+*.conf.local
+secrets/
+.env
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.old
+.cache/
+
+# Documentation compilée
+*.pdf
+*.docx
+~$*
+
+# Webmin
+/webmin/
+
+# Apache logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (si utilisation de npm)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
