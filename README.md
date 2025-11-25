@@ -29,7 +29,7 @@ Ce laboratoire présente un guide complet pour installer et configurer **ModSecu
 
 ## 📦 Installation
 
-### Étape 1 : Installation de Webmin (Optionnel)
+### Étape 1 : Installation de Webmin 
 
 Webmin facilite la gestion graphique du serveur.
 
@@ -110,7 +110,7 @@ sudo systemctl reload apache2
 ### Étape 4 : Installation de ModSecurity
 
 ```bash
-# Ajouter le PPA (optionnel)
+# Ajouter le PPA 
 sudo add-apt-repository ppa:ondrej/apache2
 sudo apt update
 
