@@ -37,7 +37,7 @@ logs/
 .idea/
 *.sublime-*
 
-# Node modules (si utilisation de npm)
+# Node modules 
 node_modules/
 
 # Python
