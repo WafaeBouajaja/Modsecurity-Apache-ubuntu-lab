@@ -243,7 +243,7 @@ Les règles OWASP Core Rule Set protègent contre :
 - **Remote Code Execution (RCE)**
 - **HTTP Protocol Violations**
 - **Session Fixation**
-- **Et bien d'autres...**
+
 
 ---
 
