@@ -247,14 +247,6 @@ Les règles OWASP Core Rule Set protègent contre :
 
 ---
 
-## 📚 Ressources
-
-- [ModSecurity Documentation](https://github.com/SpiderLabs/ModSecurity)
-- [OWASP Core Rule Set](https://coreruleset.org/)
-- [Apache Security Documentation](https://httpd.apache.org/docs/2.4/misc/security_tips.html)
-
----
-
 ## ✉️ Contact
 
 **Wafae Bouajaja**  
